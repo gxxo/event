@@ -1,0 +1,14 @@
+.bg{
+    content: url('../../public/img/menubg.svg');
+    position: relative;
+}
+/* .menyBG{
+    position: absolute;
+} */
+
+.HomeBtn{
+    position: absolute;
+    height: 15%;
+    width: 15%;
+    z-index:1;
+}

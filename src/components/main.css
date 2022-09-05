@@ -1,5 +1,19 @@
-img{
-    display: flex;
-    position: relative;                                                              
-    height: 100vh;
+.background {
+    background-image: url('../../public/img/배경.svg');
+    position: absolute;
+    margin: 0 auto;
+    width: 1440vw;
+    height: 1440vh;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    
+}
+
+.logo{
+    background-image: url('../../public/img/로고.svg');
+    position: absolute;
+    color: black;
+    top: 10px;
+    left: 10px;
 }
