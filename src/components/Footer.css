@@ -1,0 +1,22 @@
+.GameInfoRib{
+    display: block;
+    margin: 0px auto;
+    padding-top: 300px;
+    
+}
+
+.GameInfo{
+    padding: 0;
+    padding-top: 70px;
+    justify-content: center;
+    text-align: center; 
+}
+
+
+.GameInfo_D{
+    padding: 0;
+    padding-bottom: 400px;
+    justify-content: center;
+    text-align: center;
+
+}

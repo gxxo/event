@@ -1,19 +1,9 @@
-.background {
-    background-image: url('../../public/img/배경.svg');
-    position: absolute;
-    margin: 0 auto;
-    width: 1440vw;
-    height: 1440vh;
-    top: 0;
-    left: 0;
-    background-repeat: no-repeat;
-    
-}
-
-.logo{
-    background-image: url('../../public/img/로고.svg');
-    position: absolute;
-    color: black;
-    top: 10px;
-    left: 10px;
+.background{
+    background-image: url('../img/background.png');
+    background-size: cover;
+    width : 100vw;
+    background-repeat: none;
+    background-position: center top;
+    padding-top: 1.5vw;
+   
 }
